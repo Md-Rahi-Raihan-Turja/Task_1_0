@@ -1,0 +1,51 @@
+Movie ID,Title,Genre,Release Year,Rating,Number of Votes,Duration (mins),Director
+1,The Shawshank Redemption,Drama,1994,9.3,2000000,142,Frank Darabont
+2,The Godfather,Crime,1972,9.2,1500000,175,Francis Ford Coppola
+3,The Dark Knight,Action,2008,9.0,2500000,152,Christopher Nolan
+4,Schindler's List,History,1993,9.0,1200000,195,Steven Spielberg
+5,The Lord of the Rings: The Return of the King,Adventure,2003,8.9,1700000,201,Peter Jackson
+6,Forrest Gump,Drama,1994,8.8,1200000,142,Robert Zemeckis
+7,Inception,Sci-Fi,2010,8.8,2100000,148,Christopher Nolan
+8,Star Wars: Episode V - The Empire Strikes Back,Action,1980,8.7,1200000,124,Irvin Kershner
+9,The Matrix,Sci-Fi,1999,8.7,1600000,136,Lana Wachowski
+10,The Godfather: Part II,Crime,1974,9.0,1000000,202,Francis Ford Coppola
+11,City of God,Crime,2002,8.6,800000,130,Fernando Meirelles
+12,Goodfellas,Crime,1990,8.7,1100000,146,Martin Scorsese
+13,Pulp Fiction,Crime,1994,8.9,2200000,154,Quentin Tarantino
+14,The Lord of the Rings: The Fellowship of the Ring,Adventure,2001,8.8,1800000,178,Peter Jackson
+15,Fight Club,Drama,1999,8.8,1100000,139,David Fincher
+16,The Lion King,Animation,1994,8.5,1000000,88,Rob Minkoff
+17,Back to the Future,Adventure,1985,8.5,800000,116,Robert Zemeckis
+18,Interstellar,Sci-Fi,2014,8.6,1600000,169,Christopher Nolan
+19,The Prestige,Drama,2006,8.5,1300000,130,Christopher Nolan
+20,Gladiator,Action,2000,8.5,1500000,155,Ridley Scott
+21,The Departed,Crime,2006,8.5,1200000,151,Martin Scorsese
+22,The Green Mile,Drama,1999,8.6,1300000,189,Frank Darabont
+23,The Usual Suspects,Crime,1995,8.5,900000,106,Bryan Singer
+24,Se7en,Crime,1995,8.6,1200000,127,David Fincher
+25,The Intouchables,Comedy,2011,8.5,1000000,112,Olivier Nakache
+26,Whiplash,Drama,2014,8.5,900000,107,Damien Chazelle
+27,The Silence of the Lambs,Crime,1991,8.6,1200000,118,Jonathan Demme
+28,The Dark Knight Rises,Action,2012,8.4,2100000,164,Christopher Nolan
+29,The Shawshank Redemption,Drama,1994,9.3,2000000,142,Frank Darabont
+30,The Incredibles,Animation,2004,8.0,700000,115,Brad Bird
+31,Finding Nemo,Animation,2003,8.1,950000,100,Andrew Stanton
+32,Monsters, Inc.,Animation,2001,8.1,800000,92,Pete Docter
+33,Spider-Man: Into the Spider-Verse,Animation,2018,8.4,800000,117,Bob Persichetti
+34,Citizen Kane,Drama,1941,8.3,500000,119,Orson Welles
+35,12 Angry Men,Drama,1957,8.9,700000,96,Sidney Lumet
+36,The Great Escape,Adventure,1963,8.2,600000,172,John Sturges
+37,The Bridge on the River Kwai,War,1957,8.1,600000,161,David Lean
+38,The Hunt for Red October,Action,1990,7.6,400000,135,John McTiernan
+39,The Fugitive,Action,1993,7.8,600000,130,Andrew Davis
+40,The Martian,Sci-Fi,2015,8.0,1200000,144,Ridley Scott
+41,Jurassic Park,Sci-Fi,1993,8.1,1500000,127,Steven Spielberg
+42,Jaws,Thriller,1975,8.0,900000,124,Steven Spielberg
+43,The Sixth Sense,Thriller,1999,8.1,1000000,107,Night Shyamalan
+44,The Social Network,Drama,2010,8.0,1500000,120,David Fincher
+45,The Revenant,Adventure,2015,8.0,1300000,156,Alejandro González Iñárritu
+46,The Princess Bride,Adventure,1987,8.1,900000,98,Rob Reiner
+47,The Big Lebowski,Comedy,1998,8.1,1200000,117,Joel Coen
+48,The Shining,Horror,1980,8.4,1200000,146,Stanley Kubrick
+49,A Clockwork Orange,Drama,1971,8.3,700000,136,Stanley Kubrick
+50,Alien,Sci-Fi,1979,8.4,1100000,117,Ridley Scott
